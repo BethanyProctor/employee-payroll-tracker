@@ -10,9 +10,11 @@ N/A
 
 ## Usage
 
-Visit the employee payroll tracker here: 
+Visit the employee payroll tracker here: bethanyproctor.github.io/employee-payroll-tracker-js/ 
 
 After clicking the "Add New Employee" button, enter the employee's first name, last name, and their salary. This puts their information on the page in a chart. To see the average salary, open the console. The console also shows the randomly selected employee, who has been selected to win a fake drawing. 
+![image](https://github.com/BethanyProctor/employee-payroll-tracker-js/assets/160694396/affdc33b-4692-4f3d-b101-8efb1b1feeff)
+
 
 ## Credits
 
